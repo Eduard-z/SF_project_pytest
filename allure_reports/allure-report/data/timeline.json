@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ZAKHAROVE",
+    "children" : [ {
+      "name" : "10964-MainThread",
+      "children" : [ {
+        "name" : "test_edit_account",
+        "uid" : "5efb83fd0d10bf3b",
+        "parentUid" : "300222c8beb98dc0a737a7993affe3e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1583831330504,
+          "stop" : 1583831378140,
+          "duration" : 47636
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "300222c8beb98dc0a737a7993affe3e4"
+    }, {
+      "name" : "19720-MainThread",
+      "children" : [ {
+        "name" : "test_edit_account",
+        "uid" : "8ce5244dbce7e307",
+        "parentUid" : "859364773280395928cde86f3bfdf25b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1583832719340,
+          "stop" : 1583832763500,
+          "duration" : 44160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "859364773280395928cde86f3bfdf25b"
+    } ],
+    "uid" : "bc086783ef121584db4bcb90dc3a97cd"
+  } ]
+}

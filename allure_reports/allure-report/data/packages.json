@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test.test_edit_record",
+    "children" : [ {
+      "name" : "test_edit_account",
+      "uid" : "8ce5244dbce7e307",
+      "parentUid" : "ad9c1598a4f5bdb010d25b415be8b66e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583832719340,
+        "stop" : 1583832763500,
+        "duration" : 44160
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "test.test_edit_record"
+  } ]
+}

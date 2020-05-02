@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Mar 10 12:31:59 MSK 2020","Tue Mar 10 12:32:43 MSK 2020","44160","test","test_edit_record","","","","test_edit_account",""
